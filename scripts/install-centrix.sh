@@ -18,7 +18,7 @@ wget -N -P ./jar http://raw.githubusercontent.com/mechoriet/MultiCraft-JAR-Conf/
 chown minecraft:minecraft ./jar/spigot-1.13-pre7.jar.conf
 
 
-wget -N -P ./jar http://raw.githubusercontent.com/mechoriet/MultiCraft-JAR-Conf/master/minecraft/bungeecord/bugeecord-1.12.2.jar.conf
+wget -N -P ./jar http://raw.githubusercontent.com/mechoriet/MultiCraft-JAR-Conf/master/minecraft/bungeecord/bungeecord-1.12.2.jar.conf
 chown minecraft:minecraft ./jar/bugeecord-1.12.2.jar.conf
 
 wget -N -P ./jar http://raw.githubusercontent.com/mechoriet/MultiCraft-JAR-Conf/master/minecraft/waterfall/waterfall-1.12.2.jar.conf
